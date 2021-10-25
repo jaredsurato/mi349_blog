@@ -3,6 +3,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-main {
-    padding-left: 40 px;
+p {
+    margin: 10px;
+    padding: 40px;
 }
