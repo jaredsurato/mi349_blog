@@ -21,6 +21,8 @@ form {
 .image {
     box-shadow: 2px 2px 3px #292929;
     border-radius: 10px;
+    width:auto;
+    height:auto;
 }
 
 .header-nav {
