@@ -78,3 +78,15 @@ form {
     color: #ffffff;
     text-align: left;
 }
+
+.styled-table tbody tr {
+    border-bottom: 1px solid #dddddd;
+}
+
+.styled-table tbody tr:nth-of-type(even) {
+    background-color: #ffe28a;
+}
+
+.styled-table tbody tr:last-of-type {
+    border-bottom: 2px solid #fb2e01;
+}
