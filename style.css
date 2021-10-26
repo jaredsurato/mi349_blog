@@ -88,12 +88,13 @@ p {
 }
 
 .styled-table tbody tr {
+    background-color: #fffeb3;
     border-bottom: 1px solid #666547;
     text-align: left;
 }
 
 .styled-table tbody tr:nth-of-type(even) {
-    background-color: #fffeb3;
+    background-color: #ffe28a;
     text-align: left;
 }
 
