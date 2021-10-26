@@ -13,7 +13,7 @@ main, header {
 }
 
 .navigation {
-    background-color: #6fcb9f;
+    background: #6fcb9f;
     width: 80%;
 }
 .nav-item {
