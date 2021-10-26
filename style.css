@@ -40,3 +40,12 @@ main, header {
     padding:10px 0;
     margin: 5px;
 }
+
+.nav-page:hover {
+    font-weight: bold;
+    background-color: #fffeb3;
+}
+
+.nav-page:active {
+    color: #fb2e01;
+} 
