@@ -98,13 +98,13 @@ ul {
 }
 
 #linkedin{
-    width: 15%;
+    width: 100px;
     height: auto;
     border-radius: 5px;
 }
 
 #github{
-    width: 15%;
+    width: 100px;
     height: auto;
     border-radius: 5px;
 }
