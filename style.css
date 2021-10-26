@@ -3,9 +3,13 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-main, header, footer {
+main, header{
     background: #6fcb9f;
     padding: 20px;
+}
+
+footer {
+    background: #666547;
 }
 
 .image {
