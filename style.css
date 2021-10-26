@@ -4,6 +4,7 @@ body {
 }
 
 main, header {
+    background: #6fcb9f;
     padding: 10px;
 }
 
