@@ -43,8 +43,7 @@ p {
 .nav-list {
     list-style-type: none;
     margin: 0;
-    padding-left: 10px 0;
-    padding-right: 10px 0;
+    padding: 0;
     overflow: hidden;
     display: flex;
 }
@@ -60,7 +59,7 @@ p {
     border-color: #ffe28a;
     text-align: center;
     text-decoration: none;
-    padding:10px 0;
+    padding:20px 0;
     margin: 5px;
 }
 
