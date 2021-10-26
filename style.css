@@ -56,10 +56,9 @@ p {
     display: block;
     /*width: 60px;*/
     background-color: #ffe28a;
-    border-color: #ffe28a;
     text-align: center;
     text-decoration: none;
-    padding:20px 0;
+    padding:50px;
     margin: 5px;
 }
 
