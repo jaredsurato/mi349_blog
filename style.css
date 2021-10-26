@@ -73,17 +73,19 @@ form {
     box-shadow: 0 0 20px #292929;
 }
 
-.styled-table thead tr {
+.styled-table thead tr{
     background-color: #ffe28a;
     text-align: left;
 }
 
 .styled-table tbody tr {
     border-bottom: 1px solid #666547;
+    text-align: left;
 }
 
 .styled-table tbody tr:nth-of-type(even) {
     background-color: #fffeb3;
+    text-align: left;
 }
 
 .styled-table tbody tr:last-of-type {
