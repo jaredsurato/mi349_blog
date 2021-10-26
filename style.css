@@ -29,3 +29,15 @@ main, header {
 .nav-item {
     flex:1 0 auto;
 }
+
+.nav-page {
+    display: block;
+    /*width: 60px;*/
+    background-color: #dddddd;
+    border-color: #ffffff;
+    text-align: center;
+    text-decoration: none;
+    padding:10px 0;
+    margin: 3px;
+    border-radius: 4px;
+}
