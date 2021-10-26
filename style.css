@@ -84,7 +84,7 @@ p {
 .styled-table thead tr{
     background-color: #ffe28a;
     text-align: left;
-    border-bottom: 1px solid #666547;
+    border: 1px solid #666547;
 }
 
 .styled-table tbody tr {
