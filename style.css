@@ -17,6 +17,7 @@ main, header {
     width: 100%;
     background: #6fcb9f;
     margin-bottom: 1em;
+    padding: 10px;
 }
 
 .nav-list {
