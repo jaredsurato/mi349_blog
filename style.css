@@ -13,5 +13,6 @@ main, header {
 }
 
 .nav-item {
+    width: 75%;
     float:left;
 }
