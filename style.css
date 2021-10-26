@@ -96,3 +96,15 @@ ul {
 .styled-table tbody tr:last-of-type {
     border-bottom: 2px solid #666547;;
 }
+
+#linkedin{
+    width: 15%;
+    height: auto;
+    border-radius: 5px;
+}
+
+#github{
+    width: 15%;
+    height: auto;
+    border-radius: 5px;
+}
