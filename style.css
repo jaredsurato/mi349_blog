@@ -10,6 +10,11 @@ main, header{
 
 footer {
     background: #666547;
+    padding: 20px;
+}
+
+form {
+    padding: 20px;
 }
 
 .image {
