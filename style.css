@@ -71,8 +71,8 @@ form {
     font-family: sans-serif;
     min-width: 400px;
     box-shadow: 0 0 20px #292929;
-    padding-left:25%;
-    padding-right:25%;
+    padding-left:100px;
+    padding-right:100px;
 }
 
 .styled-table thead tr{
