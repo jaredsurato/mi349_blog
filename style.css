@@ -74,19 +74,19 @@ form {
 }
 
 .styled-table thead tr {
-    background-color: #fb2e01;
+    background-color: #ffe28a;
     color: #ffffff;
     text-align: left;
 }
 
 .styled-table tbody tr {
-    border-bottom: 1px solid #dddddd;
+    border-bottom: 1px solid #666547;
 }
 
 .styled-table tbody tr:nth-of-type(even) {
-    background-color: #ffe28a;
+    background-color: #fffeb3;
 }
 
 .styled-table tbody tr:last-of-type {
-    border-bottom: 2px solid #fb2e01;
+    border-bottom: 2px solid #ffe28a;
 }
