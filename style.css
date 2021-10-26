@@ -71,11 +71,14 @@ form {
     font-family: sans-serif;
     min-width: 400px;
     box-shadow: 0 0 20px #292929;
+    padding-left:25%;
+    padding-right:25%;
 }
 
 .styled-table thead tr{
     background-color: #ffe28a;
     text-align: left;
+    border-bottom: 1px solid #666547;
 }
 
 .styled-table tbody tr {
@@ -89,5 +92,5 @@ form {
 }
 
 .styled-table tbody tr:last-of-type {
-    border-bottom: 2px solid #ffe28a;
+    border-bottom: 2px solid #666547;;
 }
