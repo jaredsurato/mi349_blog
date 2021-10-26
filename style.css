@@ -64,11 +64,11 @@ p {
 
 .nav-page:hover {
     font-weight: bold;
-    background-color: #fffeb3;
+    background-color: #fb2e01;
 }
 
 .nav-page:active {
-    color: #fb2e01;
+    color: #fffeb3;
 }
 
 .styled-table {
