@@ -12,7 +12,8 @@ main, header {
     border-radius: 10px;
 }
 
+
 .nav-item {
-    width: 75%;
+    padding: 20px;
     float:left;
 }
