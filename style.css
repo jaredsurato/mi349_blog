@@ -5,6 +5,7 @@ body {
 
 main, header {
     background: #6fcb9f;
+    margin: 10px;
 }
 
 .image {
