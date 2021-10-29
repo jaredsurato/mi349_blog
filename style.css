@@ -3,7 +3,20 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     margin:25px;
 }
-.blog-article-one {
+#blog-article-one {
+    display: flex;
+}
+
+#blog-article-one:nth-child(1) {
+    width: 1;
+}
+#blog-article-one:nth-child(2) {
+    width: 3;
+}
+#blog-article-one:nth-child(3) {
+    width: 2;
+}
+#blog-article-two {
     display: flex;
 }
 main, header{
