@@ -135,6 +135,12 @@ p {
     margin-right: 25px;
 }
 
-#hawkbill {
-    float: left;
+#blog-article-one {
+    display: flex;
+}
+#hawkbill-image {
+    flex:500px;
+}
+#blog-article-one-content{
+    flex:250px;
 }
