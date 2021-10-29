@@ -139,8 +139,8 @@ p {
     display: flex;
 }
 #hawkbill-image {
-    flex:4;
+    flex:50%;
 }
 #blog-article-one-content{
-    flex:2;
+    flex:50%;
 }
