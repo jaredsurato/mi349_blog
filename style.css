@@ -33,11 +33,11 @@ ul {
     list-style-position: inside;
 }
 
-p {
+/* p {
     padding:20px;
     padding-top: 0;
     padding-bottom: 0;
-}
+} */
 
 .image {
     box-shadow: 2px 2px 3px #292929;
@@ -139,7 +139,6 @@ p {
     display: flex;
 }
 #hawkbill-image {
-    padding:0;
     flex:50%;
 }
 #blog-article-one-content{
