@@ -134,3 +134,7 @@ p {
     border-radius: 5px;
     margin-right: 25px;
 }
+
+#blog-article-one {
+    display: flex;
+}
