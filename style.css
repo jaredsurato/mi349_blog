@@ -123,11 +123,9 @@ p {
 
 #blog-article-one {
     display: flex;
-    padding: 10px;
 }
 
 #hawkbill {
-    
     flex: 3;
 }
 #blog-article-one-content {
