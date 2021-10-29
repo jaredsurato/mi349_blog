@@ -7,13 +7,13 @@ body {
     display: flex;
 }
 
-#blog-article-one:nth-child(1) {
+#blog-article-one-header {
     flex: 1;
 }
-#blog-article-one:nth-child(2) {
-    flex: 400px;
+#hawkbill {
+    flex: 3;
 }
-#blog-article-one:nth-child(3) {
+#blog-article-one-content {
     flex: 1;
 }
 #blog-article-two {
