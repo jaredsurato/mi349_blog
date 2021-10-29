@@ -46,9 +46,10 @@ ul {
     height:auto;
 }
 
-
-.header-nav {
+.main-header {
     position: sticky;
+}
+.header-nav {
     width: 100%;
     background: #8faabf;
     padding-top: 10px;
