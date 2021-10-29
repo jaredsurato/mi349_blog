@@ -45,7 +45,7 @@ p {
 }
 
 .nav-list {
-    
+    position: sticky;
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -54,10 +54,12 @@ p {
 }
 
 .nav-item {
+    position: sticky;
     flex:1 0 auto;
 }
 
 .nav-page {
+    position: sticky;
     display: block;
     /*width: 60px;*/
     background-color: #132c40;
