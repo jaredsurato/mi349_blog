@@ -155,6 +155,7 @@ ul {
 
 #first-bio-section {
     display: flex;
+    margin-bottom: 50px;
 }
 
 #engagement {
