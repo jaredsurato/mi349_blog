@@ -48,6 +48,7 @@ ul {
 
 
 .header-nav {
+    position: -webkit-sticky;
     position: sticky;
     width: 100%;
     background: #8faabf;
