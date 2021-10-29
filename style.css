@@ -172,7 +172,7 @@ ul {
 
 #second-bio-section {
     display: flex;
-    flex: row-reverse;
+    flex-direction: row-reverse;
 }
 
 #pc{
