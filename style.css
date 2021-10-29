@@ -8,13 +8,13 @@ body {
 }
 
 #blog-article-one:nth-child(1) {
-    width: 1;
+    flex: 1;
 }
 #blog-article-one:nth-child(2) {
-    width: 3;
+    flex: 3;
 }
 #blog-article-one:nth-child(3) {
-    width: 2;
+    flex: 1;
 }
 #blog-article-two {
     display: flex;
