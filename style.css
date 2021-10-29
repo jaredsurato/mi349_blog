@@ -143,4 +143,6 @@ p {
 }
 #blog-article-one-content{
     flex:1;
+    display:inline-flex;
+    flex-direction: column;
 }
