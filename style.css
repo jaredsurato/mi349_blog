@@ -137,6 +137,7 @@ p {
 
 #blog-article-one {
     display: flex;
+    flex-flow: row wrap;
 }
 #hawkbill-image {
     flex:3;
