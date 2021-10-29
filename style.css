@@ -36,8 +36,11 @@ p {
     height:auto;
 }
 
-.header-nav {
+.sticky-header {
     position: sticky;
+}
+.header-nav {
+    
     width: 100%;
     background: #8faabf;
     padding-top: 10px;
