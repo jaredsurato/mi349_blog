@@ -139,10 +139,8 @@ p {
     display: flex;
 }
 #hawkbill {
-    flex:3;
+    flex:500px;
 }
 #blog-article-one-content{
-    flex:1;
-    display:inline-flex;
-    flex-direction: column;
+    flex:250px;
 }
