@@ -48,7 +48,6 @@ ul {
 
 
 .header-nav {
-    position: -webkit-sticky;
     position: sticky;
     width: 100%;
     background: #8faabf;
@@ -56,7 +55,6 @@ ul {
 }
 
 .nav-list {
-    position: sticky;
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -65,12 +63,10 @@ ul {
 }
 
 .nav-item {
-    position: sticky;
     flex:1 0 auto;
 }
 
 .nav-page {
-    position: sticky;
     display: block;
     /*width: 60px;*/
     background-color: #132c40;
