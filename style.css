@@ -4,9 +4,6 @@ body {
     margin:25px;
 }
 
-#blog-article-two {
-    display: flex;
-}
 main, header{
     background: #8faabf;
     padding: 20px;
@@ -119,17 +116,4 @@ p {
     height: auto;
     border-radius: 5px;
     margin-right: 25px;
-}
-
-#blog-article-one {
-    display: flex;
-}
-
-#hawkbill {
-    flex: 3;
-}
-#blog-article-one-content {
-    display: flex;
-    flex-direction: column;
-    flex: 2;
 }
