@@ -139,10 +139,13 @@ ul {
     display: flex;
 }
 #hawkbill-image {
-    flex:50%;
+    flex:3;
 }
 #blog-article-one-content{
-    flex:50%;
+    flex:2;
+}
+#blog-article-one-header{
+    flex:1;
 }
 
 #blog-article-two {
