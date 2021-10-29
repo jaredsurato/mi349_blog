@@ -129,5 +129,7 @@ p {
     flex: 3;
 }
 #blog-article-one-content {
+    display: flex;
+    flex-direction: column;
     flex: 2;
 }
