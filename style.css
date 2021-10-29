@@ -144,3 +144,7 @@ ul {
 #blog-article-one-content{
     flex:50%;
 }
+
+#blog-article-two {
+    display: flex;
+}
