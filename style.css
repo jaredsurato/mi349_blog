@@ -184,6 +184,6 @@ ul {
 }
 
 form {
-    display: flex;
-    flex-direction: row;
+    display: inline-flex;
+    flex-direction: column;
 }
