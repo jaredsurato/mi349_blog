@@ -156,3 +156,11 @@ ul {
 #first-bio-section {
     display: flex;
 }
+
+#engagement {
+    flex: 3;
+}
+
+#biograhpy {
+    flex:1;
+}
