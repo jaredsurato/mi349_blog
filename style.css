@@ -185,6 +185,5 @@ ul {
 
 form {
     display: flex;
-    flex-direction: column;
-    flex:auto;
+    flex-direction: row;
 }
