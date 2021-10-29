@@ -11,7 +11,7 @@ body {
     flex: 1;
 }
 #blog-article-one:nth-child(2) {
-    flex: 3;
+    flex: 400px;
 }
 #blog-article-one:nth-child(3) {
     flex: 1;
