@@ -139,6 +139,7 @@ p {
     display: flex;
 }
 #hawkbill-image {
+    padding:0;
     flex:50%;
 }
 #blog-article-one-content{
