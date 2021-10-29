@@ -126,13 +126,10 @@ p {
     padding: 10px;
 }
 
-#blog-article-one-header {
-    flex: 1;
-}
 #hawkbill {
     
     flex: 3;
 }
 #blog-article-one-content {
-    flex: 1;
+    flex: 2;
 }
