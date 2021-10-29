@@ -3,21 +3,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     margin:25px;
 }
-#blog-article-one {
-    display: flex;
-    padding: 10px;
-}
 
-#blog-article-one-header {
-    flex: 1;
-}
-#hawkbill {
-    
-    flex: 3;
-}
-#blog-article-one-content {
-    flex: 1;
-}
 #blog-article-two {
     display: flex;
 }
@@ -133,4 +119,20 @@ p {
     height: auto;
     border-radius: 5px;
     margin-right: 25px;
+}
+
+#blog-article-one {
+    display: flex;
+    padding: 10px;
+}
+
+#blog-article-one-header {
+    flex: 1;
+}
+#hawkbill {
+    
+    flex: 3;
+}
+#blog-article-one-content {
+    flex: 1;
 }
