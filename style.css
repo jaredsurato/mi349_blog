@@ -139,6 +139,8 @@ ul {
     display: flex;
 }
 #hawkbill-image {
+    width: auto;
+    height: auto;
     flex:3;
 }
 #blog-article-one-content{
