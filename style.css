@@ -195,10 +195,11 @@ ul {
     margin: 0 5px;
     box-sizing: border-box;
 }
+.multi-column-form :nth-child(1),
 .multi-column-form :nth-child(2),
 .multi-column-form :nth-child(3),
-.multi-column-form :nth-child(5),
-.multi-column-form :nth-child(4){
+.multi-column-form :nth-child(4),
+.multi-column-form :nth-child(5){
     margin-top: 5px;
     flex: 1;
 }
