@@ -197,11 +197,9 @@ ul {
 }
 .multi-column-form :nth-child(2),
 .multi-column-form :nth-child(3),
-.multi-column-form :nth-child(5)
- {
+.multi-column-form :nth-child(5),
+.multi-column-form :nth-child(4){
     margin-top: 5px;
-}
-.multi-column-form :nth-child(4) {
     flex: 1;
 }
 .multi-column-form :nth-child(6) {
