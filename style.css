@@ -143,10 +143,10 @@ ul {
     flex:3;
 }
 #blog-article-one-content{
-    flex:2;
+    flex:3;
 }
 #blog-article-one-header{
-    flex:3;
+    flex:1;
 }
 
 #blog-article-two {
