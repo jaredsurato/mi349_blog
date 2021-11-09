@@ -243,6 +243,7 @@ ul {
 }
 .multi-column-form :nth-child(6) {
     height: 100%;
+    margin: 5px;
 }
 
 @media (max-width: 400px) {
