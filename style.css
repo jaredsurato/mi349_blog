@@ -78,7 +78,7 @@ ul {
 .styled-table {
     border-collapse: collapse;
     margin-left:auto;
-    margin-right:auto;
+    margin-right:10px;
     font-size: 0.9em;
     font-family: sans-serif;
     min-width: auto;
@@ -106,7 +106,26 @@ ul {
 .styled-table tbody tr:last-of-type {
     border-bottom: 2px solid #666547;;
 }
-
+#header-logo {
+    display: flex;
+    margin: 0 auto;
+}
+#logo-wrapper {
+    flex:auto;
+}
+#header-text {
+    flex:40;
+    text-align:left;
+    padding-left:0;
+    margin-left:0;
+}
+#logo {
+    max-height: 50px;
+    width:auto;
+    height: auto;
+    float:left;
+    padding-left: 40px;
+}
 #linkedin{
     width: 100px;
     height: auto;
@@ -152,6 +171,8 @@ ul {
 #blog-article-two-content {
     flex:2;
     text-align:justify;
+    padding: 10px;
+    margin: 10px;
 }
 #blog-article-two-image {
     flex:1;
