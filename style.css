@@ -2,18 +2,9 @@ body {
     background:#132c40 ;
     font-family: Arial, Helvetica, sans-serif;
     margin:25px;
-}
-main {
-    display: flex;
-    flex-direction: column;
+    color: #222;
 }
 
-article:nth-of-type(1) {
-    flex:1;
-}
-article:nth-of-type(2) {
-    flex:1;
-}
 main, header{
     background: #8faabf;
     padding: 20px;
@@ -31,18 +22,14 @@ form {
 
 ul {
     list-style-position: inside;
+    padding: 0;
+    margin: 0;
 }
-
-/* p {
-    padding:20px;
-    padding-top: 0;
-    padding-bottom: 0;
-} */
 
 .image {
     box-shadow: 2px 2px 3px #292929;
     border-radius: 10px;
-    width:50%;
+    width:100%;
     height:auto;
 }
 
@@ -95,6 +82,7 @@ ul {
     font-size: 0.9em;
     font-family: sans-serif;
     min-width: auto;
+    max-height: 300px;
     box-shadow: 0 0 20px #292929;
 }
 
@@ -137,11 +125,18 @@ ul {
 #blog-article-one {
     display: flex;
 }
+
+#blog-article-one-image {
+    flex:2;
+}
+
 #hawkbill-image {
-    flex:3;
+    
+    width: 100%;
 }
 #blog-article-one-content{
     flex:3;
+    text-align: justify;
 }
 #blog-article-one-header{
     flex:1;
@@ -151,21 +146,39 @@ ul {
     display: flex;
 }
 
+#para3 {
+    width: 100%;
+}
+#blog-article-two-content {
+    flex:2;
+    text-align:justify;
+}
+#blog-article-two-image {
+    flex:1;
+}
+.styled-table{
+    flex:1;
+}
 #first-bio-section {
     display: flex;
     margin-bottom: 50px;
 }
 
+#first-bio-section-image{
+    flex:1;
+}
+
 #engagement {
-    flex: 1;
     padding: 0;
-    margin-right: 0;
+    margin: 10px;
+    width: 100%;
 }
 
 #biography {
     flex:1;
-    padding:0;
-    margin-left: 0;
+    padding:10px;
+    margin-left: 10px;
+    text-align: justify;
 }
 
 #second-bio-section {
@@ -175,10 +188,15 @@ ul {
 
 #pc{
     flex:2 1 auto;
+    width:100%;
+    margin: 1%;
 }
 
 #gaming {
+    padding:2%;
     flex:1 1 auto;
+    width:100%;
+    text-align:justify;
 }
 
 .multi-column-form {
@@ -204,4 +222,26 @@ ul {
 }
 .multi-column-form :nth-child(6) {
     height: 100%;
+}
+
+@media (max-width: 4500px) {
+    .nav-page {
+        display: block;
+        /*width: 60px;*/
+        background-color: #132c40;
+        color: white;
+        text-align: center; 
+        text-decoration: none;
+        padding: 10px;
+        margin-left: 10px;
+        margin-right: 10px;
+        margin-top:20px;
+        margin-bottom:20px;
+    }
+    #blog-article-two,
+    #blog-article-one,
+    #first-bio-section,
+    #second-bio-section{
+        flex-direction: column;
+    }
 }
