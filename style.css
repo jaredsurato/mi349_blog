@@ -224,7 +224,7 @@ ul {
     height: 100%;
 }
 
-@media (max-width: 4500px) {
+@media (max-width: 400px) {
     .nav-page {
         display: block;
         /*width: 60px;*/
